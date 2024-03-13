@@ -1,0 +1,22 @@
+h1 {text-align: center;
+color: blueviolet; size: 0cqmax;
+}
+
+p {text-align: center;
+    color: blue;
+
+}
+h3 {text-align: center;
+color: fuchsia; font-weight: bold; font-style: italic; font-size: 50px;
+}
+
+h2 {text-align: center;color: forestgreen;}
+ul {text-align: center;}
+li {text-align: center;}
+
+.Bilde { width: 200px; border-radius: 50%;border-color:
+     blueviolet;border-width: 4px; border-style: solid;
+    display: block;
+margin-left: auto;margin-right: auto;}
+body {background-color: blanchedalmond;
+font-family: 'Times New Roman', Times, serif;}
